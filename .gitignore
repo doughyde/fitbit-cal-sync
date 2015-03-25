@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Intellij
+.idea
+
+# Custom
+local_settings.py
